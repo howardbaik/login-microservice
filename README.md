@@ -54,5 +54,7 @@ else:
     print("🔴 Unexpected error:", response.status_code)
 ```
 
+## UML Diagram
+
 ![A_UML_component_diagram_depicts_a_microservice_arc](https://github.com/user-attachments/assets/ec68ba84-91da-42d8-83cd-8abafeb7b704)
 
